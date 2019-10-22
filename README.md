@@ -13,3 +13,5 @@ To use multiple midi devices you have to start multiple instances of the program
 Please be sure that every device will use the same config file.
 
 To reconfigure the mapping, simply delete the config.json file.
+
+Credits to Luca.
