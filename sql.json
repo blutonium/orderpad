@@ -1,0 +1,6 @@
+{
+  "host": "IP",
+  "user": "SQLUSER",
+  "passwd": "BASE64-SQLPW",
+  "database": "DATABASE"
+}

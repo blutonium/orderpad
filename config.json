@@ -1,0 +1,242 @@
+{
+  "56": {
+    "name": "Cola",
+    "product_id": 1,
+    "id": 56,
+    "min_age": 0
+  },
+  "57": {
+    "name": "Limo",
+    "product_id": 2,
+    "id": 57,
+    "min_age": 0
+  },
+  "58": {
+    "name": "Wasser",
+    "product_id": 3,
+    "id": 58,
+    "min_age": 0
+  },
+  "48": {
+    "name": "Pils",
+    "product_id": 4,
+    "id": 48,
+    "min_age": 16
+  },
+  "49": {
+    "name": "Radler",
+    "product_id": 5,
+    "id": 49,
+    "min_age": 16
+  },
+  "50": {
+    "name": "C. Bier",
+    "product_id": 6,
+    "id": 50,
+    "min_age": 16
+  },
+  "51": {
+    "name": "Koelsch",
+    "product_id": 7,
+    "id": 51,
+    "min_age": 16
+  },
+  "52": {
+    "name": "Kasten",
+    "product_id": 8,
+    "id": 52,
+    "min_age": 16
+  },
+  "53": {
+    "name": "1/2 Kasten",
+    "product_id": 9,
+    "id": 53,
+    "min_age": 16
+  },
+  "54": {
+    "name": "Koelsch Mas",
+    "product_id": 10,
+    "id": 54,
+    "min_age": 16
+  },
+  "55": {
+    "name": "Pils Mas",
+    "product_id": 11,
+    "id": 55,
+    "min_age": 16
+  },
+  "40": {
+    "name": "C. Schoppen",
+    "product_id": 12,
+    "id": 40,
+    "min_age": 16
+  },
+  "41": {
+    "name": "F. Schoppen",
+    "product_id": 13,
+    "id": 41,
+    "min_age": 16
+  },
+  "42": {
+    "name": "W. Schoppen",
+    "product_id": 14,
+    "id": 42,
+    "min_age": 16
+  },
+  "43": {
+    "name": "Rose C.",
+    "product_id": 15,
+    "id": 43,
+    "min_age": 16
+  },
+  "44": {
+    "name": "Rose F.",
+    "product_id": 16,
+    "id": 44,
+    "min_age": 16
+  },
+  "45": {
+    "name": "Rose W.",
+    "product_id": 17,
+    "id": 45,
+    "min_age": 16
+  },
+  "32": {
+    "name": "Jager E",
+    "product_id": 18,
+    "id": 32,
+    "min_age": 18
+  },
+  "33": {
+    "name": "Vodka L",
+    "product_id": 19,
+    "id": 33,
+    "min_age": 18
+  },
+  "34": {
+    "name": "Vodka O.",
+    "product_id": 20,
+    "id": 34,
+    "min_age": 18
+  },
+  "35": {
+    "name": "Vodka E.",
+    "product_id": 21,
+    "id": 35,
+    "min_age": 18
+  },
+  "36": {
+    "name": "Malibu S.",
+    "product_id": 22,
+    "id": 36,
+    "min_age": 18
+  },
+  "37": {
+    "name": "Malibu M.",
+    "product_id": 23,
+    "id": 37,
+    "min_age": 18
+  },
+  "38": {
+    "name": "Jacky C.",
+    "product_id": 24,
+    "id": 38,
+    "min_age": 18
+  },
+  "39": {
+    "name": "Hutchen",
+    "product_id": 25,
+    "id": 39,
+    "min_age": 18
+  },
+  "24": {
+    "name": "Jager E",
+    "product_id": 26,
+    "id": 24,
+    "min_age": 18
+  },
+  "25": {
+    "name": "Vodka L",
+    "product_id": 27,
+    "id": 25,
+    "min_age": 18
+  },
+  "27": {
+    "name": "Vodka E",
+    "product_id": 28,
+    "id": 27,
+    "min_age": 18
+  },
+  "28": {
+    "name": "Malibu S.",
+    "product_id": 29,
+    "id": 28,
+    "min_age": 18
+  },
+  "29": {
+    "name": "Malibu M.",
+    "product_id": 30,
+    "id": 29,
+    "min_age": 18
+  },
+  "30": {
+    "name": "Jacky C..",
+    "product_id": 31,
+    "id": 30,
+    "min_age": 18
+  },
+  "16": {
+    "name": "Tequila",
+    "product_id": 32,
+    "id": 16,
+    "min_age": 18
+  },
+  "17": {
+    "name": "Vodka",
+    "product_id": 33,
+    "id": 17,
+    "min_age": 18
+  },
+  "18": {
+    "name": "Jager",
+    "product_id": 34,
+    "id": 18,
+    "min_age": 18
+  },
+  "19": {
+    "name": "LUFT",
+    "product_id": 35,
+    "id": 19,
+    "min_age": 18
+  },
+  "20": {
+    "name": "FICKEN",
+    "product_id": 36,
+    "id": 20,
+    "min_age": 18
+  },
+  "8": {
+    "name": "FANTA FICKEN",
+    "product_id": 37,
+    "id": 8,
+    "min_age": 18
+  },
+  "9": {
+    "name": "Pfand F",
+    "product_id": 38,
+    "id": 9,
+    "min_age": 18
+  },
+  "26": {
+    "name": "Vodka O",
+    "product_id": 39,
+    "id": 26,
+    "min_age": 18
+  },
+  "31": {
+    "name": "Fanta Ficken",
+    "product_id": 40,
+    "id": 31,
+    "min_age": 18
+  }
+}
